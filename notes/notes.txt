@@ -1,0 +1,87 @@
+Softwares
+-------------------------------------------
+1. JDK - Java Dev Kit
+
+* LTS (Long term support) Versions
+JDK 1.5
+JDK 1.6
+JDK 1.7
+*JDK 1.8 == JDK 8 - 2015 (75% Java Project) ✅
+JDK 9
+*JDK 11 ✅
+*JDK 17
+https://youtu.be/IJ-PJbvJBGs
+
+2.Notepad ++
+3.Eclipse
+
+
+Editors      						|     	IDE
+--------------------------------------------------------------------------------------
+Notepad										Powerful (They are language specific)
+Notepad ++									JAVA (Eclipse & IntelliJ Idea)
+CLI based editrs nano vim
+Sublime
+VS Code
+(Language Independent)
+
+
+Checking Installation
+-------------------------------------------------------------
+Microsoft Windows [Version 10.0.22621.1635]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\suman>java -version
+openjdk version "1.8.0_345"
+OpenJDK Runtime Environment (Temurin)(build 1.8.0_345-b01)
+OpenJDK 64-Bit Server VM (Temurin)(build 25.345-b01, mixed mode)
+
+C:\Users\suman>javac -version
+javac 1.8.0_345
+
+C:\Users\suman>
+
+
+Execution
+-------------------------------------------------------------
+~~~compilation~~~
+Main.java (Source File (Source Code)) ------Compilation [javac Main.java]   ---> Main.class (Intermediate Code, Bytecode)
+
+~~~execution~~~
+Main.class used for execution
+java Main
+
+
+
+-----Binary (0,1)---->  CPU 
+
+stibo.com
+
+com.stibo.step.core
+com.javab6.basics
+
+integer storing algo
+---------------------------------------------------------------
+bit = 0 | 1
+byte = 8 bits
+
+-5  -4	-3	-2	-1	0	1	2	3	4
+-2^7 to  2^7 - 1
+
+
+
+
+packages are a way to organise code
+packages are very simlar to folder structure
+
+
+company name : abc
+abc.com
+
+com.abc. (evarything should be in small case)
+package name ==> com.java.basics
+com > java > basics
+
+
+Programming Language:
+Predefined Keywords
