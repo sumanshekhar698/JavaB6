@@ -5,6 +5,8 @@ public class BasicDataTypes {// Pascal Case for class names
 
 	public static void main(String[] args) {
 
+//		Basic Primitve Data Types
+		
 //		Variable Name Rules
 //		Length Restriction => No
 //		Cannot start with a number but it can have number in between and in the end
@@ -15,7 +17,7 @@ public class BasicDataTypes {// Pascal Case for class names
 //		The var name should be sensible
 //		camelCase convention
 
-//		Basic Primitve Data Types
+
 //		integers
 		byte a;// just declaring but not initializing
 		short b = 32;// = means assingment operator
