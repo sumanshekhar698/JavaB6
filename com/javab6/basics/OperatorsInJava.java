@@ -8,7 +8,7 @@ public class OperatorsInJava {
 
 //		unary operators
 
-		x++;// post increment ==> x = x+1;
+		x++;// post increment ==> x = x+1
 		System.out.println(x);// 11
 		System.out.println(x++);// ? 11 post increment ==> 1st operation the increment | after printing 12
 		System.out.println(++x);// ? 13 pre increment ==> 1st increment and then opeeratoion
