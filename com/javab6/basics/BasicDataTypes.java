@@ -21,7 +21,11 @@ public class BasicDataTypes {// Pascal Case for class names
 //		integers
 		byte a;// just declaring but not initializing
 		short b = 32;// = means assingment operator
+		
+		Short b_ = b;
 		int dozenValue = 12;
+		
+		Integer dozen = 12;
 		long d = 676689L;
 
 		a = 7;
@@ -39,6 +43,8 @@ public class BasicDataTypes {// Pascal Case for class names
 //		characters
 		char characterOfSpace = ' ';
 		char characteOfA = 'A';
+		
+		Character x_ = 'X';
 
 		int utfValueOfA = (int) characteOfA;
 		System.out.println(utfValueOfA);

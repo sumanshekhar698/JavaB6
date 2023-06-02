@@ -35,6 +35,17 @@ public class OneDArrray {
 		Arrays.fill(arr, 99);
 		System.out.println(Arrays.toString(arr));
 
+		Arrays.fill(arr, 3, 7, -1);
+		System.out.println(Arrays.toString(arr));
+
+		String[] stringArr = new String[5];
+		System.out.println(Arrays.toString(stringArr));// String : null
+		stringArr[2] = "Java";
+
+		Toy[] toys = new Toy[5];
+		toys[2] = new Toy();
+		System.out.println(Arrays.toString(toys));//
+
 	}
 
 }
