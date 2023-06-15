@@ -18,6 +18,8 @@ public class MainAadhar {
 		
 //		AadharCard a3 = a1;
 //		System.out.println(a3);
+		
+//		new President("Biedon",72);
 	
 	}
 }
