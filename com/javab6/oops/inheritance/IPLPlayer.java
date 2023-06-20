@@ -6,8 +6,7 @@ public class IPLPlayer extends Player{
 	
 	public IPLPlayer(String name, int age, Gender gender, boolean dopeTest) {
 		super(name, age, gender, dopeTest);
-//		System.out.println(secretKey);
-	
+//		System.out.println(secretKey);	
 	}
 
 	@Override
