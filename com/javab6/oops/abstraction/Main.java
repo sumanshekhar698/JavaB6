@@ -1,4 +1,4 @@
-package com.javab6.oops.inheritance.abstraction;
+package com.javab6.oops.abstraction;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -12,7 +12,7 @@ public class Main {
 		boolean bankClosedfToday = pnbBank.isBankClosedfToday();
 		System.out.println(bankClosedfToday);
 
-		Bank bank = new Bank() {//Annonummous imner class
+		Bank bank = new Bank() {//Annonummous inner class
 
 			@Override
 			boolean isBankClosedfToday() {

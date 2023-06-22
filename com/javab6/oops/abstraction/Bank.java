@@ -1,6 +1,6 @@
-package com.javab6.oops.inheritance.abstraction;
+package com.javab6.oops.abstraction;
 
-abstract public class Bank {
+abstract public class Bank {// 0 - 100% partial abtraction
 
 	String ifsc;
 	String bankName;

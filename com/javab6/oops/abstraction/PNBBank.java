@@ -1,4 +1,4 @@
-package com.javab6.oops.inheritance.abstraction;
+package com.javab6.oops.abstraction;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
